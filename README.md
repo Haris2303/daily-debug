@@ -7,7 +7,7 @@ This repo is my "error diary" where I collect problems, solutions, and workaroun
 
 ## 📖 Table of Contents  
 
-1. [Laravel Storage Symlink on Shared Hosting](###laravel-storage-symlink-on-shared-hosting)  
+1. [Laravel Storage Symlink on Shared Hosting](#1.-laravel-storage-symlink-on-shared-hosting)  
 2. More coming soon... 🚀  
 
 ---
